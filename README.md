@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm a cybersecurity student, and I'm also currently building SaaS projects.
-1. **[JSSpy](https://jsspy.onrender.com/)**
+1. **[JSSpy](https://jsspy.xyz/)**
    - **Description:** JSSpy is a JavaScript file monitoring tool that helps security professionals track changes in JavaScript files and detect potential security vulnerabilities.
    - Key features include:
       - Real-time monitoring of JavaScript files for content changes with email notifications
